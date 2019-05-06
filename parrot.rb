@@ -6,5 +6,5 @@ def parrot(name = "Squawk!", name = "Pretty bird!")
   return name
 end
 
-parrot("Squawk!")
-parrot("Pretty bird!")
+# parrot("Squawk!")
+# parrot("Pretty bird!")
